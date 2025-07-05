@@ -7,6 +7,7 @@ It was built as part of the Fawry internship challenge, and it demonstrates the 
 - **Encapsulation** (private fields with public getters/setters)
 - **Inheritance** (product types extending the base class)
 - **Polymorphism** (overriding behavior like `isExpired()` and `isShippable()`)
+
 The system simulates a basic shopping flow with cart management, checkout logic, and shipping services.
 ---
 
