@@ -15,29 +15,9 @@ It was built as part of the Fawry internship challenge.
 
 ---
 
-##  Project Structure
 
-src/
-├── product/
-│   ├── Product.java
-│   ├── Shippable.java
-│   ├── Cheese.java
-│   ├── TV.java
-│   ├── Biscuits.java
-│   └── ScratchCard.java
-│
-├── cart/
-│   ├── Cart.java
-│   └── CartItem.java
-│
-├── customer/
-│   └── Customer.java
-│
-├── service/
-│   ├── CheckoutService.java
-│   └── ShippingService.java
-│
-└── Main.java
+![image](https://github.com/user-attachments/assets/e70662ca-ad8f-463f-b15d-976d26712f6d)
+
 
 
 
