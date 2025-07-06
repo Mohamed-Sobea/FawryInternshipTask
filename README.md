@@ -27,7 +27,8 @@ The system simulates a basic shopping flow with cart management, checkout logic,
 
 
 ## Class Diagram
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/e125ab61-40f1-435a-8fd7-e2e2837086b0)
+
+![Screenshot 2025-07-06 040540](https://github.com/user-attachments/assets/47ab75e6-f270-432b-b830-6af89688928f)
 
 
 
